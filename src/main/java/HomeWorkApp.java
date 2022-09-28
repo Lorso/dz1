@@ -10,7 +10,7 @@ public class HomeWorkApp {
         System.out.println("Banana");
         System.out.println("Apple");
     }
-    //hhhhh
+    //hhhhhghhjg
     private static void checkSumSign() {
         int a = 5;
         int b = 10;
